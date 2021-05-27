@@ -1,4 +1,4 @@
-## Serwis http, nappisany w frameworku Flask, który przygotowywuje raport o transakcjach klienta na podstawie otrzymanych danych. 
+## Serwis http, napisany w frameworku Flask, który przygotowywuje raport o transakcjach klienta na podstawie otrzymanych danych. 
 
 
 # Jak używać 
