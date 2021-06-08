@@ -1,13 +1,12 @@
-## Serwis http, napisany w frameworku Flask, który przygotowywuje raport o transakcjach klienta na podstawie otrzymanych danych. 
+## The http service, written in the Flask framework, which prepares a report on the client's transactions based on the received data.
 
-
-# Jak używać 
+# How to use 
 
 ```
 python main.py
 ```
-Przykładowe dane znajdują się w pliku `data.txt`
+Sample data can be found in the file `data.txt`
 
-załączam równiez plik `requirements.txt`, który po zainstalowaniu powinnien być wystarczający do odpalenia programu. Na wszelki wypadek załączam również venv'a. ;)
+I also attach the file `requirements.txt`.
 
-Podczas tworzenia aplikacji korzystałem z Pythona w wersji 3.8.7. 
+I used Python version 3.8.7.
